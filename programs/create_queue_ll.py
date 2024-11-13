@@ -173,3 +173,4 @@ if __name__ == '__main__':
     if not results.failed:
         print("ALL TESTS PASSED!")
 
+print("hello")
